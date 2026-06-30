@@ -1,0 +1,54 @@
+{
+  "participacoes": {
+    "PA-002": {
+      "codigo": "PA-002",
+      "nome": "Participante 2",
+      "contato": "81988888888",
+      "entrouEm": "30/06/2026, 15:58:34",
+      "finalizado": true,
+      "cartaEscolhida": 1,
+      "premio": "PIX DE R$ 5,00",
+      "sorteadoEm": "30/06/2026, 15:58:36"
+    },
+    "PA-001": {
+      "codigo": "PA-001",
+      "nome": "Participante 1",
+      "contato": "81999999999",
+      "entrouEm": "30/06/2026, 16:00:34",
+      "finalizado": true,
+      "cartaEscolhida": 3,
+      "premio": "PIX DE R$ 25,00",
+      "sorteadoEm": "30/06/2026, 16:00:38"
+    },
+    "PA-003": {
+      "codigo": "PA-003",
+      "nome": "Participante 3",
+      "contato": "81977777777",
+      "entrouEm": "30/06/2026, 16:02:42",
+      "finalizado": true,
+      "cartaEscolhida": 2,
+      "premio": "PIX DE R$ 5,00",
+      "sorteadoEm": "30/06/2026, 16:04:10"
+    },
+    "PA-004": {
+      "codigo": "PA-004",
+      "nome": "Participante 4",
+      "contato": "81966666666",
+      "entrouEm": "30/06/2026, 16:07:38",
+      "finalizado": true,
+      "cartaEscolhida": 5,
+      "premio": "PIX DE R$ 20,00",
+      "sorteadoEm": "30/06/2026, 16:07:57"
+    },
+    "V3Q9T6LB": {
+      "codigo": "V3Q9T6LB",
+      "nome": "COMERCIAL TC",
+      "contato": "",
+      "entrouEm": "30/06/2026, 16:19:49",
+      "finalizado": true,
+      "cartaEscolhida": 34,
+      "premio": "PIX DE R$ 10,00",
+      "sorteadoEm": "30/06/2026, 16:20:02"
+    }
+  }
+}

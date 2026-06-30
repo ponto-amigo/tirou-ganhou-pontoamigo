@@ -1,0 +1,10 @@
+{
+  "name": "tirou-ganhou-ponto-amigo-vercel-avisaapi",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server-local.js",
+    "dev": "node server-local.js",
+    "vercel-dev": "vercel dev"
+  }
+}
