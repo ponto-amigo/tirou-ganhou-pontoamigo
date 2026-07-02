@@ -13,7 +13,7 @@ const CONFIG_LOCAL = {
 
   sorteioSecret: 'ponto-amigo-teste-local-2026',
 
-  nomeCampanha: 'TIROU GANHOU DA PONTO AMIGO',
+  nomeCampanha: 'TIROU GANHOU DA TOTAL CASH',
 
   enviarWhatsapp: true,
 };
@@ -35,7 +35,7 @@ const CONFIG = {
 
 const USUARIOS = [
   {
-    codigo: '123456',
+    codigo: '1234567',
     nome: 'TESTEE',
     contato: '',
     ativo: true,
